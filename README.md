@@ -17,10 +17,13 @@
 9. [React](https://urfu-2019.github.io/slides/second-semester/09-react/) ([pdf](https://urfu-2019.github.io/slides/second-semester/09-react/index.pdf))
 10. [State managment](https://frontend-ifmo-2019.now.sh/webdev/13-react-3/index.html#/) ([video](https://yadi.sk/i/0SzJbSiB5XF8TQ))
 11. React Hooks ([video](https://yadi.sk/i/p27C92WCfrqBrA))
+12. [Web API](https://urfu-2019.github.io/slides/second-semester/07-web-api/)
+13. [Security](https://urfu-2019.github.io/slides/second-semester/08-security/)
 
 ## Домашнее задание
 1. [Первый этап](https://urfu-2020.github.io/slides/project/first/)
 1. [Второй этап](https://urfu-2020.github.io/slides/project/second/)
+1. [Третий этап](https://urfu-2020.github.io/slides/project/third/)
 
 ## Дополнительные материалы
 
